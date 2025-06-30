@@ -4,7 +4,6 @@
   <img src="banner.png" alt="Banner" width="85%">
 </p>
 
-This project provides...
 
 This project provides a unified Python function to process natural language input using [Ollama](https://ollama.com/) and the `llama3.2` model.
 
