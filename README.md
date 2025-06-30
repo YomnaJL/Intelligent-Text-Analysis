@@ -1,7 +1,7 @@
 # 🧠 Intelligent Text Analysis with Ollama
 
 <p align="center">
-  <img src="assets/ollama-text-analysis-banner.png" alt="Banner" width="85%">
+  <img src="banner.png" alt="Banner" width="85%">
 </p>
 
 This project provides...
