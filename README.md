@@ -1,9 +1,6 @@
 
 # 🧠 Analyse de Texte Intelligente avec Flask, NVIDIA API et Docker
 
-<p align="center">
-  <img src="banner.png" alt="Banner" width="85%">
-</p>
 
 ## 1. Introduction Générale
 
@@ -26,11 +23,9 @@ L'objectif principal est de fournir un outil accessible qui démontre une archit
 ## 3. 📸 Captures d'écran
 
 ### Interface Utilisateur de l'Application
-<!-- 
-    INSTRUCTIONS : Remplacez la ligne ci-dessous par votre capture d'écran.
-    Vous pouvez glisser-déposer votre image directement dans l'éditeur de GitHub.
-    Exemple : ![Interface Utilisateur](banner.png) 
--->
+<p align="center">
+  <img src="banner.png" alt="Banner" width="85%">
+</p>
 <p align="center">
   <b>[Placez ici votre capture d'écran de l'interface web en fonctionnement]</b>
 </p>
