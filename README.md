@@ -24,29 +24,22 @@ L'objectif principal est de fournir un outil accessible qui démontre une archit
 
 ### Interface Utilisateur de l'Application
 <p align="center">
-  <img src="banner.png" alt="Banner" width="85%">
+  <img src="images/banner.png" alt="Banner" width="85%">
 </p>
-<p align="center">
-  <b>[Placez ici votre capture d'écran de l'interface web en fonctionnement]</b>
-</p>
+
+
 
 ### Image Docker (`docker images`)
-<!-- 
-    INSTRUCTIONS : Remplacez la ligne ci-dessous par votre capture d'écran.
-    Exemple : ![Image Docker](captures/docker-image.png) 
--->
 <p align="center">
-  <b>[Placez ici votre capture d'écran de la sortie de la commande `docker images` montrant l'image `text-analyzer-app`]</b>
+  <img src="images/image_docker.png" alt="Banner" width="85%">
 </p>
+<p align="center">
 
 ### Conteneur en Cours d'Exécution (`docker ps`)
-<!-- 
-    INSTRUCTIONS : Remplacez la ligne ci-dessous par votre capture d'écran.
-    Exemple : ![Conteneur Docker](captures/docker-container.png) 
--->
 <p align="center">
-  <b>[Placez ici votre capture d'écran de la sortie de la commande `docker ps` montrant le conteneur `my-text-app` actif]</b>
+  <img src="images/conteneur-docker.png" alt="Banner" width="85%">
 </p>
+<p align="center">
 
 ---
 
